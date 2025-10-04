@@ -7,8 +7,10 @@ requires-python = ">=3.10"
 dependencies = [
     "matplotlib",
     "numpy",
+    "pandas",
     "pillow",
     "rdkit",
     "torch",
-    "torchvision"
+    "torchvision",
+    "vllm"
 ]

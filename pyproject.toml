@@ -5,17 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "bitsandbytes>=0.48.0",
-    "datasets>=4.1.1",
-    "pandas>=2.0.0",
-    "peft>=0.17.1",
-    "pillow>=10.0.0",
-    "qwen-vl-utils>=0.0.14",
-    "rdkit>=2025.3.6",
-    "torch>=2.8.0",
-    "torchvision>=0.23.0",
-    "trackio>=0.4.1",
-    "transformers>=4.56.2",
-    "trl>=0.23.0",
-    "vllm>=0.8.3",
+    "matplotlib",
+    "numpy",
+    "pillow",
+    "rdkit",
+    "torch",
+    "torchvision"
 ]
